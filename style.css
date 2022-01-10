@@ -1,0 +1,82 @@
+body {
+    font-family: 'Baloo 2', cursive;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background: url(spy.jpg);
+
+}
+
+.left {
+    display: inline-block;
+
+    position: absolute;
+    left: 8px;
+    top: 18px;
+}
+
+.mid {
+    display: block;
+    width: 35%;
+    margin: 18px auto;
+
+
+
+}
+
+.right {
+    position: absolute;
+    right: 8px;
+    top: 18px;
+    display: inline-block;
+
+
+}
+
+.na {
+    display: inline-block;
+
+}
+
+.na li {
+    display: inline-block;
+
+}
+
+.na li a {
+    color: white;
+    text-decoration: none;
+    padding: 30px 20px;
+}
+
+.na li a:hover,
+.na li a.active {
+    text-decoration: underline;
+    color: rgb(31, 243, 208);
+}
+
+.left img {
+    width: 60px;
+    filter: invert(100%);
+}
+
+.left div {
+    text-align: center;
+    color: rgb(31, 243, 208);
+}
+
+.btn {
+    font-family: 'Baloo 2', cursive;
+    margin: 19px 8px;
+    background-color: black;
+    color: white;
+    padding: 0px 18px;
+    border: 2px solid rgb(31, 243, 208);
+    border-radius: 10px;
+    font-size: 20;
+    cursor: pointer
+}
+
+.btn:hover {
+    background-color: rgb(50, 183, 245);
+}
