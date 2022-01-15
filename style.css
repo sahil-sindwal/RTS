@@ -65,7 +65,10 @@ body {
     text-align: center;
     color: rgb(31, 243, 208);
 }
-
+.left div abbr{
+	text-decoration: none;
+	
+}
 .btn {
     font-family: 'Baloo 2', cursive;
     margin: 19px 8px;
