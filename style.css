@@ -4,6 +4,7 @@ body {
     margin: 0px;
     padding: 0px;
     background: url(spy.jpg);
+	
 
 }
 
@@ -17,7 +18,7 @@ body {
 
 .mid {
     display: block;
-    width: 35%;
+    width: 40%;
     margin: 18px auto;
 
 
@@ -71,7 +72,7 @@ body {
     background-color: black;
     color: white;
     padding: 0px 18px;
-    border: 2px solid rgb(31, 243, 208);
+  
     border-radius: 10px;
     font-size: 20;
     cursor: pointer
