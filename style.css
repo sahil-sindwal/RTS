@@ -176,3 +176,11 @@ body {
 span a {
 	color: #BBB;
 }
+
+.search{
+	
+	position: absolute;
+    right: 8px;
+    top: 10px;
+    display: inline-block;
+}
