@@ -181,11 +181,7 @@ span a {
 	
 	position: absolute;
     right: 8px;
-    top: 10px;
+    top: -10px;
     display: inline-block;
-	
-}
-.search:hover{
-	background-color: aqua;
 
 }
